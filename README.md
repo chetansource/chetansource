@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm chetan kumar</h1>
 <h3 align="center">A passionate developer from KARNATAKA, INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansource&label=Profile%20views&color=0e75b6&style=flat" alt="chetansource" /> </p>
 
 - 📫 How to reach me **chetan.141k@gmail.com**
@@ -22,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetansource&show_icons=true&locale=en" alt="chetansource" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetansource&" alt="chetansource" /></p>
-
