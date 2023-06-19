@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm chetan kumar</h1>
 <h3 align="center">A passionate developer from KARNATAKA, INDIA</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansource&label=Profile%20views&color=0e75b6&style=flat" alt="chetansource" /> </p>
 
 - 📫 How to reach me **chetan.141k@gmail.com**
