@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chetan.141k@gmail.com**
 
-- 📄 Know about my experiences [https://ornate-sunburst-b0839f.netlify.app/](https://ornate-sunburst-b0839f.netlify.app/)
+- 📄 Know about my experiences [https://imaginative-cat-afe4b8.netlify.app/](https://imaginative-cat-afe4b8.netlify.app/)
 
 - ⚡ Fun fact **There are several methods of learning that developers can adopt**
 
